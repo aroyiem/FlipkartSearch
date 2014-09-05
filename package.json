@@ -1,0 +1,12 @@
+{
+  "name": "FlipkartSearch",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "request": "*",
+    "cheerio": "*"
+  }
+}
